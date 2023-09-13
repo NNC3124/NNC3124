@@ -114,7 +114,14 @@ both a technological and a societal standpoint. There are several other complex 
 share private data while minimizing disclosure and guaranteeing adequate data usefulness in the transmitted data.
 
 
+## References
 
+1.(n.d.). https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=3dc03532a968eb7459d77346e52c2c58a3ee9bd4
 
+2.(2015, May 27). https://www.ijircst.org/DOC/3_big_data_analytics_challenges_tools.pdf
 
+3.Thiele, J. C. (2022). Design and Implementation of Environmental Information Systems - Three case studies for managing climate and land-use change in Forestry 
+and Agriculture. https://doi.org/10.53846/goediss-7277
+
+Harding, B., & Hegland, M. (2013). A robust combination technique. Australian & New Zealand Industrial and Applied Mathematics Journal, 54, 394. https://doi.org/10.21914/anziamj.v54i0.6321
 
